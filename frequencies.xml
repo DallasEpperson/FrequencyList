@@ -1,0 +1,2280 @@
+<?xml version="1.0"?>
+<ArrayOfMemoryEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WVOC</Name>
+    <GroupName>Broadcast AM</GroupName>
+    <Frequency>560000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WGCV</Name>
+    <GroupName>Broadcast AM</GroupName>
+    <Frequency>620000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WLFJ Greenville</Name>
+    <GroupName>Broadcast AM</GroupName>
+    <Frequency>660000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WCEO</Name>
+    <GroupName>Broadcast AM</GroupName>
+    <Frequency>840000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WBAJ</Name>
+    <GroupName>Broadcast AM</GroupName>
+    <Frequency>890000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WISW</Name>
+    <GroupName>Broadcast AM</GroupName>
+    <Frequency>1320000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WCOS</Name>
+    <GroupName>Broadcast AM</GroupName>
+    <Frequency>1400000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Honolulu Volmet</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>2863000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>New York ARINC</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>3016000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>New York Volmet</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>3485000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>New York LDOC</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>3494000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>PSK31 80m</Name>
+    <GroupName>Amateur</GroupName>
+    <Frequency>3580000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>60M Channel 1</Name>
+    <GroupName>Amateur</GroupName>
+    <Frequency>5330500</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Military STANAG?</Name>
+    <GroupName>Unknown</GroupName>
+    <Frequency>5338500</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>60M Channel 2</Name>
+    <GroupName>Amateur</GroupName>
+    <Frequency>5346500</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>60M Channel 3</Name>
+    <GroupName>Amateur</GroupName>
+    <Frequency>5357000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>60M Channel 4</Name>
+    <GroupName>Amateur</GroupName>
+    <Frequency>5371500</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>COTHEN</Name>
+    <GroupName>Federal</GroupName>
+    <Frequency>5372000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>60M Channel 5</Name>
+    <GroupName>Amateur</GroupName>
+    <Frequency>5403500</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>COTHEN</Name>
+    <GroupName>Federal</GroupName>
+    <Frequency>5905500</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>New York Volmet</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>6604000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Honolulu Volmet</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>6679000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>PSK31 40m</Name>
+    <GroupName>Amateur</GroupName>
+    <Frequency>7070000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>COTHEN</Name>
+    <GroupName>Federal</GroupName>
+    <Frequency>7527000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Honolulu Volmet</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>8828000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>New York Volmet</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>10051000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>New York Volmet</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>13270000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Honolulu Volmet</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>13282000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>PSK31 20m</Name>
+    <GroupName>Amateur</GroupName>
+    <Frequency>14070000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB 1</Name>
+    <GroupName>CB</GroupName>
+    <Frequency>26965000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB 2</Name>
+    <GroupName>CB</GroupName>
+    <Frequency>26975000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB 3</Name>
+    <GroupName>CB</GroupName>
+    <Frequency>26985000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB 4</Name>
+    <GroupName>CB</GroupName>
+    <Frequency>27005000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB 5</Name>
+    <GroupName>CB</GroupName>
+    <Frequency>27015000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB 9</Name>
+    <GroupName>CB</GroupName>
+    <Frequency>27065000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB 16</Name>
+    <GroupName>CB</GroupName>
+    <Frequency>27155000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB 19</Name>
+    <GroupName>CB</GroupName>
+    <Frequency>27185000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB 37 USB</Name>
+    <GroupName>CB</GroupName>
+    <Frequency>27375000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>16000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>DHEC Upstate</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>30860000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>DHEC Mobile</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>30900000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>NIFOG LLAW 1</Name>
+    <GroupName>Federal</GroupName>
+    <Frequency>39460000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>NIFOG LFIRE 2</Name>
+    <GroupName>Federal</GroupName>
+    <Frequency>39480000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SAR</Name>
+    <GroupName>Military</GroupName>
+    <Frequency>40500000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>LTAC 1</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>42100000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>LTAC 2</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>42260000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Public Works</Name>
+    <GroupName>Richland County</GroupName>
+    <Frequency>45160000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Public Works</Name>
+    <GroupName>Richland County</GroupName>
+    <Frequency>45360000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>EMD Columbia</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>45480000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>NIFOG LLAW 3</Name>
+    <GroupName>Federal</GroupName>
+    <Frequency>45860000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>NIFOG LFIRE 4</Name>
+    <GroupName>Federal</GroupName>
+    <Frequency>45880000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>DOT Ch. 5</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>47040000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>DOT Ch. 6</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>47080000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>DOT Ch. 7</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>47180000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>DOT Ch. 8</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>47200000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>DOT Ch. 1</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>47220000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>DOT Ch. 3</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>47280000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>DOT Ch. 2</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>47340000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>DOT Ch. 4</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>47360000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>American Red Cross</Name>
+    <GroupName>Richland County</GroupName>
+    <Frequency>47420000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>LTAC 3</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>47500000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WRJA</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>88100000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WYFV</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>88500000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WNSC</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>88900000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>W219CY</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>89300000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WMHK</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>89700000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WUSC</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>90500000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WLTR</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>91300000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WWNU [Irmo, SC]</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>92100000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WZMJ</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>93100000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WARQ</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>93500000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WSCZ</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>93900000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WWNQ</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>94300000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WFMV</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>95300000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WLTY</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>96700000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>W246AS</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>97100000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WCOS</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>97500000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WOMG</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>98500000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WXRY</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>99300000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>W259CL</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>99700000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WXBT</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>100100000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WWDM</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>101300000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WMFX</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>102300000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WPUB</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>102700000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WLXC</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>103100000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WHXT</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>103900000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WBBQ</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>104300000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WNOK</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>104700000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WSCG</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>105700000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WTCB</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>106700000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WNKT</Name>
+    <GroupName>Broadcast FM</GroupName>
+    <Frequency>107500000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>250000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CAE Tower VHF</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>119500000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CAE Delivery</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>119750000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CAE ATIS</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>120150000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>VHF Guard</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>121500000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>ELT Training</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>121775000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Aviation Support</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>121950000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Flight Watch Weather</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>122000000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FAA Unicom</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>122700000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FAA Unicom</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>122725000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Fixed Wing air-to-air</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>122750000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Aviation Support</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>122775000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>KCUB UNICOM</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>122800000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CAE Unicom</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>122950000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Helicopter air-to-air</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>123025000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>KFDW UNICOM</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>123050000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Search and Rescue</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>123100000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CAE App/Dep VHF2</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>124150000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Military Common</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>126200000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>KZDC</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>132225000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>KZJX</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>132425000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>KZFW</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>132925000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>KZTL</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>132975000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>KZTL</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>133150000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>KZJX</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>133300000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>KZJX</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>133325000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CAE App/Dep VHF</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>133400000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>KZJX</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>133450000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>KZJX</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>133625000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>KZDC</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>133725000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Military Common</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>134100000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Unknown</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>134975000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>KZDC</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>135200000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>KZTL</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>135350000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>USCG Aux Simplex</Name>
+    <GroupName>Federal</GroupName>
+    <Frequency>143475000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>APRS</Name>
+    <GroupName>Amateur</GroupName>
+    <Frequency>144390000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SCHEART Columbia Repeater In</Name>
+    <GroupName>Amateur</GroupName>
+    <Frequency>146115000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>32000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>2-Meter Simplex</Name>
+    <GroupName>Amateur</GroupName>
+    <Frequency>146520000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>32000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SCHEART Columbia Repeater Out</Name>
+    <GroupName>Amateur</GroupName>
+    <Frequency>146715000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>32000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>K1TCB Lexington Repeater In</Name>
+    <GroupName>Amateur</GroupName>
+    <Frequency>147000000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>32000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>W4CAE/r</Name>
+    <GroupName>Amateur</GroupName>
+    <Frequency>147330000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>K1TCB Lexington Repeater Out</Name>
+    <GroupName>Amateur</GroupName>
+    <Frequency>147600000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>32000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CAP Primary Repeater</Name>
+    <GroupName>Civil Air Patrol</GroupName>
+    <Frequency>148125000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CAP Secondary Repeater</Name>
+    <GroupName>Civil Air Patrol</GroupName>
+    <Frequency>148150000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CAP Air 1 Analog</Name>
+    <GroupName>Civil Air Patrol</GroupName>
+    <Frequency>149275000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CAP Air 2 Analog</Name>
+    <GroupName>Civil Air Patrol</GroupName>
+    <Frequency>150562500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>USCG Aux Repeater</Name>
+    <GroupName>Federal</GroupName>
+    <Frequency>150700000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>DNR Little Mountain</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>151160000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SCFC Ch. 1</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>151205000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SCFC Ch. 2</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>151227500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SCFC Ch. 5</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>151280000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>DNR Talk 4</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>151340000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SCFC Ch. 3</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>151355000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SCFC Ch. 4</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>151400000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>DNR Columbia</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>151415000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>DNR Talk 3</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>151430000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SCFC Ch. 6</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>151482500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Public Works</Name>
+    <GroupName>Richland County</GroupName>
+    <Frequency>153920000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Walmart West Columbia</Name>
+    <GroupName>Business</GroupName>
+    <Frequency>154600000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SLED Statewide</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>154665000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>VTAC 5</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>155010000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>VTAC 6</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>155070000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>VTAC 2</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>155160000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>DOC 5</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>155310000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Law Enforcement Intersystem</Name>
+    <GroupName>Federal</GroupName>
+    <Frequency>155370000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>VTAC Air-Ground</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>155445000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>DOC 6</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>155490000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>DOC 3</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>155520000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>VTAC 3</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>155535000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>VTAC 4</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>155550000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>DOC 1</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>155640000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>DOC 2</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>155685000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>DOC 4</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>155910000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>VTAC 1</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>155955000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>USCG VHF 06</Name>
+    <GroupName>Federal</GroupName>
+    <Frequency>156300000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>USCG VHF 09</Name>
+    <GroupName>Federal</GroupName>
+    <Frequency>156450000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>USCG VHF 16</Name>
+    <GroupName>Federal</GroupName>
+    <Frequency>156800000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SLED Ops</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>158910000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SCFC Ch. 28 Piedmont Ops</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>159270000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SCFC Ch. 40 Incident</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>159307500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SCFC Ch. 29 Lake Murray</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>159330000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Lex 1 Buses</Name>
+    <GroupName>Schools</GroupName>
+    <Frequency>160155000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>32000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SRS</Name>
+    <GroupName>Misc</GroupName>
+    <Frequency>162225000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>25000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>NWS Ch. 1</Name>
+    <GroupName>Federal</GroupName>
+    <Frequency>162400000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>NWS Ch. 2</Name>
+    <GroupName>Federal</GroupName>
+    <Frequency>162425000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>NWS Ch. 3</Name>
+    <GroupName>Federal</GroupName>
+    <Frequency>162450000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>NWS Ch. 4</Name>
+    <GroupName>Federal</GroupName>
+    <Frequency>162475000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>NWS Ch. 5</Name>
+    <GroupName>Federal</GroupName>
+    <Frequency>162500000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>NWS Ch. 6</Name>
+    <GroupName>Federal</GroupName>
+    <Frequency>162525000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>NWS Ch. 7</Name>
+    <GroupName>Federal</GroupName>
+    <Frequency>162550000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SRS</Name>
+    <GroupName>Misc</GroupName>
+    <Frequency>162725000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>25000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SRS</Name>
+    <GroupName>Misc</GroupName>
+    <Frequency>163112500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>25000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SRS</Name>
+    <GroupName>Misc</GroupName>
+    <Frequency>163375000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>25000</FilterBandwidth>
+  </MemoryEntry>
+    <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SRS</Name>
+    <GroupName>Misc</GroupName>
+    <Frequency>163875000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>25000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Weather</Name>
+    <GroupName>Misc</GroupName>
+    <Frequency>164800000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>25000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>ATF Nets</Name>
+    <GroupName>Federal</GroupName>
+    <Frequency>165287700</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>ATF TAC 1</Name>
+    <GroupName>Federal</GroupName>
+    <Frequency>167162500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>USFS Columbia Repeater</Name>
+    <GroupName>Federal</GroupName>
+    <Frequency>168675000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>LoJack</Name>
+    <GroupName>Federal</GroupName>
+    <Frequency>173075000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MilAir Emergency</Name>
+    <GroupName>Military</GroupName>
+    <Frequency>243000000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>USAF Common</Name>
+    <GroupName>Military</GroupName>
+    <Frequency>252525000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CAE Tower UHF</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>257800000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CAE App/Dep UHF</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>285600000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>USAF Common</Name>
+    <GroupName>Military</GroupName>
+    <Frequency>333000000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>USAF Common</Name>
+    <GroupName>Military</GroupName>
+    <Frequency>333300000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>USAF Common</Name>
+    <GroupName>Military</GroupName>
+    <Frequency>333550000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CAE App/Dep UHF</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>338200000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>USAF Common</Name>
+    <GroupName>Military</GroupName>
+    <Frequency>357000000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>NORAD AICC</Name>
+    <GroupName>Military</GroupName>
+    <Frequency>364200000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>TACAMO Data</Name>
+    <GroupName>Military</GroupName>
+    <Frequency>383550000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SCHEART Columbia Repeater In</Name>
+    <GroupName>Amateur</GroupName>
+    <Frequency>441725000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>32000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SCHEART Columbia Repeater Out</Name>
+    <GroupName>Amateur</GroupName>
+    <Frequency>446725000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>32000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MCEC</Name>
+    <GroupName>Utilities</GroupName>
+    <Frequency>451150000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MCEC</Name>
+    <GroupName>Utilities</GroupName>
+    <Frequency>451175000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>DOC Statewide</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>452125000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>DHEC Relay</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>452200000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CFD Cntr Dsp</Name>
+    <GroupName>Fire Dept</GroupName>
+    <Frequency>453100000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>32000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>UTAC 4</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>453150000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>453.265 MHz NFM</Name>
+    <GroupName>Unknown</GroupName>
+    <Frequency>453265000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>32000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Riverbanks Zoo</Name>
+    <GroupName>Business</GroupName>
+    <Frequency>453325000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CFD NE Disp</Name>
+    <GroupName>Fire Dept</GroupName>
+    <Frequency>453400000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>32000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>ETV Richland Repeater</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>453425000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FCD NW Disp</Name>
+    <GroupName>Fire Dept</GroupName>
+    <Frequency>453450000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>32000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>UTAC 2</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>453450000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>DPR Dreher Island</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>453500000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>BPS Ch. 1</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>453625000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CFD St 20/21</Name>
+    <GroupName>Fire Dept</GroupName>
+    <Frequency>453700000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>32000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>BPS Ch. 2</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>453750000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CFD SE Disp</Name>
+    <GroupName>Fire Dept</GroupName>
+    <Frequency>453925000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>32000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CFD N Disp</Name>
+    <GroupName>Fire Dept</GroupName>
+    <Frequency>453975000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>32000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>UTAC 3</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>460050000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Cayce Call Boxes</Name>
+    <GroupName>Police</GroupName>
+    <Frequency>460150000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>32000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>UTAC 1</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>460250000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>UTAC 5</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>460275000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Batesburg Dispatch</Name>
+    <GroupName>Police</GroupName>
+    <Frequency>460425000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>32000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Cayce Dispatch</Name>
+    <GroupName>Police</GroupName>
+    <Frequency>460600000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>32000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Irmo High</Name>
+    <GroupName>Schools</GroupName>
+    <Frequency>461050000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>32000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FRS 1</Name>
+    <GroupName>FRS</GroupName>
+    <Frequency>462562500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>25000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FRS 2</Name>
+    <GroupName>FRS</GroupName>
+    <Frequency>462587500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>25000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FRS 3</Name>
+    <GroupName>FRS</GroupName>
+    <Frequency>462612500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>25000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FRS 4</Name>
+    <GroupName>FRS</GroupName>
+    <Frequency>462637500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>25000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>GMRS Columbia Repeater</Name>
+    <GroupName>Business</GroupName>
+    <Frequency>462650000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FRS 5</Name>
+    <GroupName>FRS</GroupName>
+    <Frequency>462662500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>25000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FRS 6</Name>
+    <GroupName>FRS</GroupName>
+    <Frequency>462687500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>25000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>GMRS Lexington Repeater</Name>
+    <GroupName>Business</GroupName>
+    <Frequency>462700000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FRS 7</Name>
+    <GroupName>FRS</GroupName>
+    <Frequency>462712500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>25000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>463.290 MHz NFM</Name>
+    <GroupName>Unknown</GroupName>
+    <Frequency>463290000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>32000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Frankies Fun Park</Name>
+    <GroupName>Business</GroupName>
+    <Frequency>464487500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Columbiana Mall</Name>
+    <GroupName>Business</GroupName>
+    <Frequency>464875000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FRS 8</Name>
+    <GroupName>FRS</GroupName>
+    <Frequency>467562500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>25000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FRS 9</Name>
+    <GroupName>FRS</GroupName>
+    <Frequency>467587500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>25000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FRS 10</Name>
+    <GroupName>FRS</GroupName>
+    <Frequency>467612500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>25000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FRS 11</Name>
+    <GroupName>FRS</GroupName>
+    <Frequency>467637500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>25000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FRS 12</Name>
+    <GroupName>FRS</GroupName>
+    <Frequency>467662500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>25000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FRS 13</Name>
+    <GroupName>FRS</GroupName>
+    <Frequency>467687500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>25000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FRS 14</Name>
+    <GroupName>FRS</GroupName>
+    <Frequency>467712500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>25000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>8TAC 1</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>851225000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>8TAC 11</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>851225000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CFD 800 FG1</Name>
+    <GroupName>Fire Dept</GroupName>
+    <Frequency>851650000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>25000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>8TAC 2</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>851687500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CFD 800 FG2</Name>
+    <GroupName>Fire Dept</GroupName>
+    <Frequency>852225000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>25000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>8TAC 3</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>852775000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>8TAC 4</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>853637500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>8TAC 5</Name>
+    <GroupName>SC Government</GroupName>
+    <Frequency>853975000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+</ArrayOfMemoryEntry>

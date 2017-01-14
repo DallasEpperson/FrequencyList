@@ -263,7 +263,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 01 </Name>
+    <Name>CB Ch 01</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>26965000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -272,7 +272,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 02 </Name>
+    <Name>CB Ch 02</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>26975000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -281,7 +281,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 03 </Name>
+    <Name>CB Ch 03</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>26985000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -290,7 +290,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 04 </Name>
+    <Name>CB Ch 04</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27005000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -299,7 +299,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 05 </Name>
+    <Name>CB Ch 05</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27015000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -308,7 +308,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 06 </Name>
+    <Name>CB Ch 06</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27025000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -317,7 +317,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 07 </Name>
+    <Name>CB Ch 07</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27035000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -326,7 +326,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 08 </Name>
+    <Name>CB Ch 08</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27055000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -335,7 +335,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 09 </Name>
+    <Name>CB Ch 09</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27065000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -344,7 +344,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 10 </Name>
+    <Name>CB Ch 10</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27075000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -353,7 +353,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 11 </Name>
+    <Name>CB Ch 11</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27085000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -362,7 +362,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 12 </Name>
+    <Name>CB Ch 12</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27105000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -371,7 +371,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 13 </Name>
+    <Name>CB Ch 13</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27115000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -380,7 +380,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 14 </Name>
+    <Name>CB Ch 14</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27125000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -389,7 +389,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 15 </Name>
+    <Name>CB Ch 15</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27135000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -398,7 +398,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 16 </Name>
+    <Name>CB Ch 16</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27155000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -407,7 +407,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 17 </Name>
+    <Name>CB Ch 17</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27165000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -416,7 +416,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 18 </Name>
+    <Name>CB Ch 18</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27175000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -425,7 +425,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 19 </Name>
+    <Name>CB Ch 19</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27185000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -434,7 +434,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 20 </Name>
+    <Name>CB Ch 20</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27205000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -443,7 +443,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 21 </Name>
+    <Name>CB Ch 21</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27215000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -452,7 +452,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 22 </Name>
+    <Name>CB Ch 22</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27225000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -461,7 +461,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 23 </Name>
+    <Name>CB Ch 23</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27255000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -470,7 +470,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 24 </Name>
+    <Name>CB Ch 24</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27235000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -479,7 +479,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 25 </Name>
+    <Name>CB Ch 25</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27245000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -488,7 +488,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 26 </Name>
+    <Name>CB Ch 26</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27265000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -497,7 +497,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 27 </Name>
+    <Name>CB Ch 27</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27275000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -506,7 +506,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 28 </Name>
+    <Name>CB Ch 28</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27285000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -515,7 +515,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 29 </Name>
+    <Name>CB Ch 29</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27295000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -524,7 +524,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 30 </Name>
+    <Name>CB Ch 30</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27305000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -533,7 +533,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 31 </Name>
+    <Name>CB Ch 31</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27315000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -542,7 +542,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 32 </Name>
+    <Name>CB Ch 32</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27325000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -551,7 +551,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 33 </Name>
+    <Name>CB Ch 33</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27335000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -560,7 +560,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 34 </Name>
+    <Name>CB Ch 34</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27345000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -569,7 +569,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 35 </Name>
+    <Name>CB Ch 35</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27355000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -578,7 +578,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 36 </Name>
+    <Name>CB Ch 36</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27365000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -587,7 +587,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 37 </Name>
+    <Name>CB Ch 37</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27375000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -596,7 +596,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 38 </Name>
+    <Name>CB Ch 38</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27385000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -605,7 +605,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 39 </Name>
+    <Name>CB Ch 39</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27395000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -614,7 +614,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB Ch 40 </Name>
+    <Name>CB Ch 40</Name>
     <GroupName>Citizens Band</GroupName>
     <Frequency>27405000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -2315,7 +2315,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>FRS Ch 01 </Name>
+    <Name>FRS Ch 01</Name>
     <GroupName>Family Radio Service</GroupName>
     <Frequency>462562500</Frequency>
     <DetectorType>NFM</DetectorType>
@@ -2324,7 +2324,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>FRS Ch 02 </Name>
+    <Name>FRS Ch 02</Name>
     <GroupName>Family Radio Service</GroupName>
     <Frequency>462587500</Frequency>
     <DetectorType>NFM</DetectorType>
@@ -2333,7 +2333,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>FRS Ch 03 </Name>
+    <Name>FRS Ch 03</Name>
     <GroupName>Family Radio Service</GroupName>
     <Frequency>462612500</Frequency>
     <DetectorType>NFM</DetectorType>
@@ -2342,7 +2342,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>FRS Ch 04 </Name>
+    <Name>FRS Ch 04</Name>
     <GroupName>Family Radio Service</GroupName>
     <Frequency>462637500</Frequency>
     <DetectorType>NFM</DetectorType>
@@ -2351,7 +2351,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>FRS Ch 05 </Name>
+    <Name>FRS Ch 05</Name>
     <GroupName>Family Radio Service</GroupName>
     <Frequency>462662500</Frequency>
     <DetectorType>NFM</DetectorType>
@@ -2360,7 +2360,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>FRS Ch 06 </Name>
+    <Name>FRS Ch 06</Name>
     <GroupName>Family Radio Service</GroupName>
     <Frequency>462687500</Frequency>
     <DetectorType>NFM</DetectorType>
@@ -2369,7 +2369,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>FRS Ch 07 </Name>
+    <Name>FRS Ch 07</Name>
     <GroupName>Family Radio Service</GroupName>
     <Frequency>462712500</Frequency>
     <DetectorType>NFM</DetectorType>
@@ -2378,7 +2378,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>FRS Ch 08 </Name>
+    <Name>FRS Ch 08</Name>
     <GroupName>Family Radio Service</GroupName>
     <Frequency>467562500</Frequency>
     <DetectorType>NFM</DetectorType>
@@ -2387,7 +2387,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>FRS Ch 09 </Name>
+    <Name>FRS Ch 09</Name>
     <GroupName>Family Radio Service</GroupName>
     <Frequency>467587500</Frequency>
     <DetectorType>NFM</DetectorType>
@@ -2396,7 +2396,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>FRS Ch 10 </Name>
+    <Name>FRS Ch 10</Name>
     <GroupName>Family Radio Service</GroupName>
     <Frequency>467612500</Frequency>
     <DetectorType>NFM</DetectorType>
@@ -2405,7 +2405,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>FRS Ch 11 </Name>
+    <Name>FRS Ch 11</Name>
     <GroupName>Family Radio Service</GroupName>
     <Frequency>467637500</Frequency>
     <DetectorType>NFM</DetectorType>
@@ -2414,7 +2414,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>FRS Ch 12 </Name>
+    <Name>FRS Ch 12</Name>
     <GroupName>Family Radio Service</GroupName>
     <Frequency>467662500</Frequency>
     <DetectorType>NFM</DetectorType>
@@ -2423,7 +2423,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>FRS Ch 13 </Name>
+    <Name>FRS Ch 13</Name>
     <GroupName>Family Radio Service</GroupName>
     <Frequency>467687500</Frequency>
     <DetectorType>NFM</DetectorType>
@@ -2432,7 +2432,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>FRS Ch 14 </Name>
+    <Name>FRS Ch 14</Name>
     <GroupName>Family Radio Service</GroupName>
     <Frequency>467712500</Frequency>
     <DetectorType>NFM</DetectorType>

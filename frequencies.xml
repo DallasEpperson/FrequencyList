@@ -263,84 +263,363 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB 1</Name>
-    <GroupName>CB</GroupName>
+    <Name>CB Ch 01 </Name>
+    <GroupName>Citizens Band</GroupName>
     <Frequency>26965000</Frequency>
     <DetectorType>AM</DetectorType>
-    <Shift>0</Shift>
+    <Shift>-125000000</Shift>
     <FilterBandwidth>10000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB 2</Name>
-    <GroupName>CB</GroupName>
+    <Name>CB Ch 02 </Name>
+    <GroupName>Citizens Band</GroupName>
     <Frequency>26975000</Frequency>
     <DetectorType>AM</DetectorType>
-    <Shift>0</Shift>
+    <Shift>-125000000</Shift>
     <FilterBandwidth>10000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB 3</Name>
-    <GroupName>CB</GroupName>
+    <Name>CB Ch 03 </Name>
+    <GroupName>Citizens Band</GroupName>
     <Frequency>26985000</Frequency>
     <DetectorType>AM</DetectorType>
-    <Shift>0</Shift>
+    <Shift>-125000000</Shift>
     <FilterBandwidth>10000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB 4</Name>
-    <GroupName>CB</GroupName>
+    <Name>CB Ch 04 </Name>
+    <GroupName>Citizens Band</GroupName>
     <Frequency>27005000</Frequency>
     <DetectorType>AM</DetectorType>
-    <Shift>0</Shift>
+    <Shift>-125000000</Shift>
     <FilterBandwidth>10000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB 5</Name>
-    <GroupName>CB</GroupName>
+    <Name>CB Ch 05 </Name>
+    <GroupName>Citizens Band</GroupName>
     <Frequency>27015000</Frequency>
     <DetectorType>AM</DetectorType>
-    <Shift>0</Shift>
+    <Shift>-125000000</Shift>
     <FilterBandwidth>10000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB 9</Name>
-    <GroupName>CB</GroupName>
+    <Name>CB Ch 06 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27025000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 07 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27035000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 08 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27055000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 09 </Name>
+    <GroupName>Citizens Band</GroupName>
     <Frequency>27065000</Frequency>
     <DetectorType>AM</DetectorType>
-    <Shift>0</Shift>
+    <Shift>-125000000</Shift>
     <FilterBandwidth>10000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB 16</Name>
-    <GroupName>CB</GroupName>
+    <Name>CB Ch 10 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27075000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 11 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27085000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 12 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27105000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 13 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27115000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 14 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27125000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 15 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27135000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 16 </Name>
+    <GroupName>Citizens Band</GroupName>
     <Frequency>27155000</Frequency>
     <DetectorType>AM</DetectorType>
-    <Shift>0</Shift>
+    <Shift>-125000000</Shift>
     <FilterBandwidth>10000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB 19</Name>
-    <GroupName>CB</GroupName>
+    <Name>CB Ch 17 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27165000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 18 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27175000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 19 </Name>
+    <GroupName>Citizens Band</GroupName>
     <Frequency>27185000</Frequency>
     <DetectorType>AM</DetectorType>
-    <Shift>0</Shift>
+    <Shift>-125000000</Shift>
     <FilterBandwidth>10000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>CB 37 USB</Name>
-    <GroupName>CB</GroupName>
+    <Name>CB Ch 20 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27205000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 21 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27215000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 22 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27225000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 23 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27255000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 24 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27235000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 25 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27245000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 26 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27265000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 27 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27275000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 28 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27285000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 29 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27295000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 30 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27305000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 31 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27315000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 32 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27325000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 33 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27335000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 34 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27345000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 35 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27355000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 36 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27365000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 37 </Name>
+    <GroupName>Citizens Band</GroupName>
     <Frequency>27375000</Frequency>
-    <DetectorType>USB</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>16000</FilterBandwidth>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 38 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27385000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 39 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27395000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>CB Ch 40 </Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27405000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>

@@ -37,4 +37,15 @@
     <RangeEntry minFrequency="122250000000" maxFrequency="123000000000" mode="NFM" step="10" color="red">GHz Ham Band</RangeEntry>
     <RangeEntry minFrequency="134000000000" maxFrequency="141000000000" mode="NFM" step="10" color="red">GHz Ham Band</RangeEntry>
     <RangeEntry minFrequency="241000000000" maxFrequency="250000000000" mode="NFM" step="10" color="red">GHz Ham Band</RangeEntry>
+
+    <!-- Radionavigation - Source: https://www.ntia.doc.gov/files/ntia/publications/2003-allochrt.pdf -->
+    <RangeEntry minFrequency="000000009000" maxFrequency="00000014000" mode="USB" step="10" color="FFAABD26">Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="000000090000" maxFrequency="00000110000" mode="USB" step="10" color="FFAABD26">Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="000000190000" maxFrequency="00000200000" mode="USB" step="10" color="FFC05017">Aeronautical Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="000000200000" maxFrequency="00000275000" mode="USB" step="10" color="FFC05017">Aeronautical Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="000000275000" maxFrequency="00000285000" mode="USB" step="10" color="FF4C8E75">Maritime Radionavigation (Radio Beacons)</RangeEntry>
+    <RangeEntry minFrequency="000000275000" maxFrequency="00000285000" mode="USB" step="10" color="FFC05017">Aeronautical Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="000000285000" maxFrequency="00000300000" mode="USB" step="10" color="FFC05017">Aeronautical Radionavigation (Radio Beacons)</RangeEntry>
+    <RangeEntry minFrequency="000000285000" maxFrequency="00000300000" mode="USB" step="10" color="FF4C8E75">Maritime Radionavigation (Radio Beacons)</RangeEntry>
+
 </ArrayOfRangeEntry>

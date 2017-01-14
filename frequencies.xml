@@ -2441,8 +2441,80 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>GMRS Columbia Repeater</Name>
-    <GroupName>Business</GroupName>
+    <Name>GMRS462.5500</Name>
+    <GroupName>General Mobile Radio Service</GroupName>
+    <Frequency>462550000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>GMRS462.5625</Name>
+    <GroupName>General Mobile Radio Service</GroupName>
+    <Frequency>462562500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>GMRS462.5750</Name>
+    <GroupName>General Mobile Radio Service</GroupName>
+    <Frequency>462575000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>GMRS462.5875</Name>
+    <GroupName>General Mobile Radio Service</GroupName>
+    <Frequency>462587500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>GMRS462.6000</Name>
+    <GroupName>General Mobile Radio Service</GroupName>
+    <Frequency>462600000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>GMRS462.6125</Name>
+    <GroupName>General Mobile Radio Service</GroupName>
+    <Frequency>462612500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>GMRS462.6250</Name>
+    <GroupName>General Mobile Radio Service</GroupName>
+    <Frequency>462625000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>GMRS462.6375</Name>
+    <GroupName>General Mobile Radio Service</GroupName>
+    <Frequency>462637500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>GMRS462.6500</Name>
+    <GroupName>General Mobile Radio Service</GroupName>
     <Frequency>462650000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
@@ -2450,9 +2522,126 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>GMRS Lexington Repeater</Name>
-    <GroupName>Business</GroupName>
+    <Name>GMRS462.6625</Name>
+    <GroupName>General Mobile Radio Service</GroupName>
+    <Frequency>462662500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>GMRS462.6750</Name>
+    <GroupName>General Mobile Radio Service</GroupName>
+    <Frequency>462675000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>GMRS462.6875</Name>
+    <GroupName>General Mobile Radio Service</GroupName>
+    <Frequency>462687500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>GMRS462.7000</Name>
+    <GroupName>General Mobile Radio Service</GroupName>
     <Frequency>462700000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>GMRS462.7125</Name>
+    <GroupName>General Mobile Radio Service</GroupName>
+    <Frequency>462712500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>GMRS462.7250</Name>
+    <GroupName>General Mobile Radio Service</GroupName>
+    <Frequency>462725000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>GMRS467.5500</Name>
+    <GroupName>General Mobile Radio Service</GroupName>
+    <Frequency>467550000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>GMRS467.5750</Name>
+    <GroupName>General Mobile Radio Service</GroupName>
+    <Frequency>467575000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>GMRS467.6000</Name>
+    <GroupName>General Mobile Radio Service</GroupName>
+    <Frequency>467600000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>GMRS467.6250</Name>
+    <GroupName>General Mobile Radio Service</GroupName>
+    <Frequency>467625000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>GMRS467.6500</Name>
+    <GroupName>General Mobile Radio Service</GroupName>
+    <Frequency>467650000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>GMRS467.6750</Name>
+    <GroupName>General Mobile Radio Service</GroupName>
+    <Frequency>467675000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>GMRS467.7000</Name>
+    <GroupName>General Mobile Radio Service</GroupName>
+    <Frequency>467700000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>GMRS467.7250</Name>
+    <GroupName>General Mobile Radio Service</GroupName>
+    <Frequency>467725000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>12500</FilterBandwidth>

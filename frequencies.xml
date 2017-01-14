@@ -1595,6 +1595,51 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
+    <Name>MURS 151.82</Name>
+    <GroupName>Multi-Use Radio Service</GroupName>
+    <Frequency>151820000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MURS 151.88</Name>
+    <GroupName>Multi-Use Radio Service</GroupName>
+    <Frequency>151880000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MURS 151.94</Name>
+    <GroupName>Multi-Use Radio Service</GroupName>
+    <Frequency>151940000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MURS 154.57</Name>
+    <GroupName>Multi-Use Radio Service</GroupName>
+    <Frequency>154570000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MURS 154.60</Name>
+    <GroupName>Multi-Use Radio Service</GroupName>
+    <Frequency>154600000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
     <Name>Public Works</Name>
     <GroupName>Richland County</GroupName>
     <Frequency>153920000</Frequency>

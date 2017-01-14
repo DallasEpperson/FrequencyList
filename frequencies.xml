@@ -2315,39 +2315,129 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>FRS 1</Name>
-    <GroupName>FRS</GroupName>
+    <Name>FRS Ch 01 </Name>
+    <GroupName>Family Radio Service</GroupName>
     <Frequency>462562500</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
-    <FilterBandwidth>25000</FilterBandwidth>
+    <FilterBandwidth>12500</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>FRS 2</Name>
-    <GroupName>FRS</GroupName>
+    <Name>FRS Ch 02 </Name>
+    <GroupName>Family Radio Service</GroupName>
     <Frequency>462587500</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
-    <FilterBandwidth>25000</FilterBandwidth>
+    <FilterBandwidth>12500</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>FRS 3</Name>
-    <GroupName>FRS</GroupName>
+    <Name>FRS Ch 03 </Name>
+    <GroupName>Family Radio Service</GroupName>
     <Frequency>462612500</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
-    <FilterBandwidth>25000</FilterBandwidth>
+    <FilterBandwidth>12500</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>FRS 4</Name>
-    <GroupName>FRS</GroupName>
+    <Name>FRS Ch 04 </Name>
+    <GroupName>Family Radio Service</GroupName>
     <Frequency>462637500</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
-    <FilterBandwidth>25000</FilterBandwidth>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FRS Ch 05 </Name>
+    <GroupName>Family Radio Service</GroupName>
+    <Frequency>462662500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FRS Ch 06 </Name>
+    <GroupName>Family Radio Service</GroupName>
+    <Frequency>462687500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FRS Ch 07 </Name>
+    <GroupName>Family Radio Service</GroupName>
+    <Frequency>462712500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FRS Ch 08 </Name>
+    <GroupName>Family Radio Service</GroupName>
+    <Frequency>467562500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FRS Ch 09 </Name>
+    <GroupName>Family Radio Service</GroupName>
+    <Frequency>467587500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FRS Ch 10 </Name>
+    <GroupName>Family Radio Service</GroupName>
+    <Frequency>467612500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FRS Ch 11 </Name>
+    <GroupName>Family Radio Service</GroupName>
+    <Frequency>467637500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FRS Ch 12 </Name>
+    <GroupName>Family Radio Service</GroupName>
+    <Frequency>467662500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FRS Ch 13 </Name>
+    <GroupName>Family Radio Service</GroupName>
+    <Frequency>467687500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>FRS Ch 14 </Name>
+    <GroupName>Family Radio Service</GroupName>
+    <Frequency>467712500</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12500</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
@@ -2360,39 +2450,12 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>FRS 5</Name>
-    <GroupName>FRS</GroupName>
-    <Frequency>462662500</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>25000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>FRS 6</Name>
-    <GroupName>FRS</GroupName>
-    <Frequency>462687500</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>25000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
     <Name>GMRS Lexington Repeater</Name>
     <GroupName>Business</GroupName>
     <Frequency>462700000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>12500</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>FRS 7</Name>
-    <GroupName>FRS</GroupName>
-    <Frequency>462712500</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>25000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
@@ -2420,69 +2483,6 @@
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>12500</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>FRS 8</Name>
-    <GroupName>FRS</GroupName>
-    <Frequency>467562500</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>25000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>FRS 9</Name>
-    <GroupName>FRS</GroupName>
-    <Frequency>467587500</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>25000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>FRS 10</Name>
-    <GroupName>FRS</GroupName>
-    <Frequency>467612500</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>25000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>FRS 11</Name>
-    <GroupName>FRS</GroupName>
-    <Frequency>467637500</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>25000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>FRS 12</Name>
-    <GroupName>FRS</GroupName>
-    <Frequency>467662500</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>25000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>FRS 13</Name>
-    <GroupName>FRS</GroupName>
-    <Frequency>467687500</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>25000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>FRS 14</Name>
-    <GroupName>FRS</GroupName>
-    <Frequency>467712500</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>25000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>

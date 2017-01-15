@@ -146,9 +146,1431 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>New York LDOC</Name>
+    <Name>MWARA LDOC</Name>
     <GroupName>Aircraft</GroupName>
     <Frequency>3494000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA LDOC</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>6640000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA LDOC</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>8933000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA LDOC</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>11342000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA LDOC</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>13348000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA LDOC</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>17925000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA LDOC</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>21964000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-A</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>3016000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-A</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>5598000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-A</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>8906000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-A</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>13306000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-A</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>17946000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-B</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>2899000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-B</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>5616000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-B</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>8864000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-B</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>13291000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-B</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>17946000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-C</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>2872000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-C</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>5649000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-C</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>8879000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-C</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>11336000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-C</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>13306000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-C</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>17946000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-D</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>2971000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-D</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>4675000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-D</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>8891000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-D</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>11279000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-D</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>13291000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-D</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>17946000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-E</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>2962000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-E</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>6628000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-E</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>8825000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-E</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>11309000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-E</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>13354000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-E</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>17946000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-E</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>17952000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-F</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>3476000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-F</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>6622000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-F</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>8831000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-F</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>13291000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-F</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>17946000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-H</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>2965000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-H</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>3491000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-H</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>5583000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-H</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>6556000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-H</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>6667000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-H</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>10021000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-H</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>10036000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-H</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>11363000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-I</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>2860000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-I</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>2881000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-I</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>2890000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-I</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>3458000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-I</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>3473000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-I</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>3488000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-I</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>5484000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-I</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>5568000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-I</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>6550000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-I</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>6595000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-I</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>10066000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-J</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>2869000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-J</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>2944000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-J</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>2992000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-J</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>3446000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-J</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>3473000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-J</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>4651000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-J</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>4666000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-J</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>4684000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-J</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>5460000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-J</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>5481000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-J</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>5559000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-J</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>5577000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-J</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>6547000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-J</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>8954000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NAT-J</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>11276000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA SAT-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>3452000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA SAT-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>6535000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA SAT-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>8861000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA SAT-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>13357000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA SAT-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>17955000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA SAT-2</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>2854000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA SAT-2</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>5565000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA SAT-2</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>11291000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA SAT-2</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>13315000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA SAT-2</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>17955000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CAR-A</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>2887000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CAR-A</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>3455000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CAR-A</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>5550000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CAR-A</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>6577000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CAR-A</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>8846000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CAR-A</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>8918000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CAR-A</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>11396000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CAR-A</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>17907000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CAR-B</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>5520000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CAR-B</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>6586000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CAR-B</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>11330000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CAR-B</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>13297000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CAR-B</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>17907000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CEP-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>3413000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CEP-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>5574000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CEP-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>8843000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CEP-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>13354000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CEP-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>17904000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CEP-2</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>2869000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CEP-2</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>5547000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CEP-2</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>11282000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CEP-2</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>13288000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CEP-2</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>21964000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CEP-3</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>3452000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CEP-3</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>6673000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CEP-3</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>10057000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CEP-3</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>13288000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CWP-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>3455000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CWP-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>6532000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CWP-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>8903000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CWP-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>10081000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CWP-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>13300000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CWP-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>17904000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CWP-2</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>2998000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CWP-2</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>4666000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CWP-2</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>8903000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CWP-2</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>11384000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CWP-2</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>13300000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA CWP-2</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>17904000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NP-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>2932000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NP-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>5628000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NP-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>10048000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NP-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>13273000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NP-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>17946000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NP-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>21925000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NP-2</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>2932000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NP-2</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>6655000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NP-2</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>8951000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NP-2</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>11330000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NP-2</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>17946000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NP-2</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>21925000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NP-3</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>5667000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NP-3</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>8915000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NP-3</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>17946000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA NP-3</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>21925000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA SP</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>3467000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA SP</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>5643000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA SP</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>8867000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA SP</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>13261000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA SP</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>17904000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA SEA-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>3470000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA SEA-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>5670000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA SEA-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>6556000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA SEA-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>10066000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA SEA-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>11285000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA SEA-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>13318000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA SEA-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>17907000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA INO-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>3425000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA INO-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>3476000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA INO-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>4657000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA INO-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>5634000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA INO-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>8879000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA INO-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>13306000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>MWARA INO-1</Name>
+    <GroupName>Aircraft</GroupName>
+    <Frequency>17961000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>-125000000</Shift>
     <FilterBandwidth>3000</FilterBandwidth>

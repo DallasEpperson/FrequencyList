@@ -29,6 +29,24 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
+    <Name>WSB Atlanta</Name>
+    <GroupName>Broadcast AM</GroupName>
+    <Frequency>750000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WTRU Winston-Salem</Name>
+    <GroupName>Broadcast AM</GroupName>
+    <Frequency>830000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
     <Name>WCEO</Name>
     <GroupName>Broadcast AM</GroupName>
     <Frequency>840000</Frequency>
@@ -38,9 +56,36 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
+    <Name>WTCG Charlotte</Name>
+    <GroupName>Broadcast AM</GroupName>
+    <Frequency>870000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WCBS NYC</Name>
+    <GroupName>Broadcast AM</GroupName>
+    <Frequency>880000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
     <Name>WBAJ</Name>
     <GroupName>Broadcast AM</GroupName>
     <Frequency>890000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WNML Knoxville</Name>
+    <GroupName>Broadcast AM</GroupName>
+    <Frequency>990000</Frequency>
     <DetectorType>AM</DetectorType>
     <Shift>-125000000</Shift>
     <FilterBandwidth>10000</FilterBandwidth>
@@ -59,6 +104,15 @@
     <Name>WCOS</Name>
     <GroupName>Broadcast AM</GroupName>
     <Frequency>1400000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>-125000000</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>WLAC Nashville</Name>
+    <GroupName>Broadcast AM</GroupName>
+    <Frequency>1510000</Frequency>
     <DetectorType>AM</DetectorType>
     <Shift>-125000000</Shift>
     <FilterBandwidth>10000</FilterBandwidth>

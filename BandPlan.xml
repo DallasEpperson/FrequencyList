@@ -39,13 +39,59 @@
     <RangeEntry minFrequency="241000000000" maxFrequency="250000000000" mode="NFM" step="10" color="red">GHz Ham Band</RangeEntry>
 
     <!-- Radionavigation - Source: https://www.ntia.doc.gov/files/ntia/publications/2003-allochrt.pdf -->
-    <RangeEntry minFrequency="000000009000" maxFrequency="00000014000" mode="USB" step="10" color="FFAABD26">Radionavigation</RangeEntry>
-    <RangeEntry minFrequency="000000090000" maxFrequency="00000110000" mode="USB" step="10" color="FFAABD26">Radionavigation</RangeEntry>
-    <RangeEntry minFrequency="000000190000" maxFrequency="00000200000" mode="USB" step="10" color="FFC05017">Aeronautical Radionavigation</RangeEntry>
-    <RangeEntry minFrequency="000000200000" maxFrequency="00000275000" mode="USB" step="10" color="FFC05017">Aeronautical Radionavigation</RangeEntry>
-    <RangeEntry minFrequency="000000275000" maxFrequency="00000285000" mode="USB" step="10" color="FF4C8E75">Maritime Radionavigation (Radio Beacons)</RangeEntry>
-    <RangeEntry minFrequency="000000275000" maxFrequency="00000285000" mode="USB" step="10" color="FFC05017">Aeronautical Radionavigation</RangeEntry>
-    <RangeEntry minFrequency="000000285000" maxFrequency="00000300000" mode="USB" step="10" color="FFC05017">Aeronautical Radionavigation (Radio Beacons)</RangeEntry>
-    <RangeEntry minFrequency="000000285000" maxFrequency="00000300000" mode="USB" step="10" color="FF4C8E75">Maritime Radionavigation (Radio Beacons)</RangeEntry>
+    <RangeEntry minFrequency="000000009000" maxFrequency="000000014000" mode="USB" step="10" color="99AABD26">Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="000000090000" maxFrequency="000000110000" mode="USB" step="10" color="99AABD26">Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="000000190000" maxFrequency="000000200000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="000000200000" maxFrequency="000000275000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="000000275000" maxFrequency="000000285000" mode="USB" step="10" color="994C8E75">Maritime Radionavigation (Radio Beacons)</RangeEntry>
+    <RangeEntry minFrequency="000000275000" maxFrequency="000000285000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="000000285000" maxFrequency="000000300000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation (Radio Beacons)</RangeEntry>
+    <RangeEntry minFrequency="000000285000" maxFrequency="000000300000" mode="USB" step="10" color="994C8E75">Maritime Radionavigation (Radio Beacons)</RangeEntry>
+    <RangeEntry minFrequency="000000300000" maxFrequency="000000325000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation (Radio Beacons)</RangeEntry>
+    <RangeEntry minFrequency="000000300000" maxFrequency="000000325000" mode="USB" step="10" color="994C8E75">Maritime Radionavigation (Radio Beacons)</RangeEntry>
+    <RangeEntry minFrequency="000000325000" maxFrequency="000000335000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation (Radio Beacons)</RangeEntry>
+    <RangeEntry minFrequency="000000325000" maxFrequency="000000335000" mode="USB" step="10" color="994C8E75">Maritime Radionavigation (Radio Beacons)</RangeEntry>
+    <RangeEntry minFrequency="000000335000" maxFrequency="000000405000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation (Radio Beacons)</RangeEntry>
+    <RangeEntry minFrequency="000000405000" maxFrequency="000000415000" mode="USB" step="10" color="99AABD26">Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="000000415000" maxFrequency="000000495000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="000000510000" maxFrequency="000000535000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation (Radio Beacons)</RangeEntry>
+    <RangeEntry minFrequency="000074800000" maxFrequency="000075200000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="000108000000" maxFrequency="000117975000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="000328600000" maxFrequency="000335400000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="000399900000" maxFrequency="000400050000" mode="USB" step="10" color="99E9EB7C">Radionavigation Satellite</RangeEntry>
+    <RangeEntry minFrequency="000960000000" maxFrequency="001215000000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="001215000000" maxFrequency="001240000000" mode="USB" step="10" color="99E9EB7C">Radionavigation Satellite</RangeEntry>
+    <RangeEntry minFrequency="001300000000" maxFrequency="001350000000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="001559000000" maxFrequency="001610000000" mode="USB" step="10" color="99E9EB7C">Radionavigation Satellite (Space to Earth)</RangeEntry>
+    <RangeEntry minFrequency="001559000000" maxFrequency="001626500000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="002700000000" maxFrequency="002900000000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="002900000000" maxFrequency="003100000000" mode="USB" step="10" color="994C8E75">Maritime Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="003500000000" maxFrequency="003650000000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation (Ground)</RangeEntry>
+    <RangeEntry minFrequency="004200000000" maxFrequency="004400000000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="005000000000" maxFrequency="005250000000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="005350000000" maxFrequency="005460000000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="005460000000" maxFrequency="005470000000" mode="USB" step="10" color="99AABD26">Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="005470000000" maxFrequency="005650000000" mode="USB" step="10" color="994C8E75">Maritime Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="009000000000" maxFrequency="009200000000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="009200000000" maxFrequency="009300000000" mode="USB" step="10" color="994C8E75">Maritime Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="009300000000" maxFrequency="009500000000" mode="USB" step="10" color="99AABD26">Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="013250000000" maxFrequency="013400000000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="014000000000" maxFrequency="014200000000" mode="USB" step="10" color="99AABD26">Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="015400000000" maxFrequency="015700000000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="024450000000" maxFrequency="024650000000" mode="USB" step="10" color="99AABD26">Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="024750000000" maxFrequency="025050000000" mode="USB" step="10" color="99AABD26">Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="031800000000" maxFrequency="033400000000" mode="USB" step="10" color="99AABD26">Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="045500000000" maxFrequency="047000000000" mode="USB" step="10" color="99E9EB7C">Radionavigation Satellite</RangeEntry>
+    <RangeEntry minFrequency="066000000000" maxFrequency="071000000000" mode="USB" step="10" color="99AABD26">Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="066000000000" maxFrequency="071000000000" mode="USB" step="10" color="99E9EB7C">Radionavigation Satellite</RangeEntry>
+    <RangeEntry minFrequency="095000000000" maxFrequency="100000000000" mode="USB" step="10" color="99AABD26">Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="095000000000" maxFrequency="100000000000" mode="USB" step="10" color="99E9EB7C">Radionavigation Satellite</RangeEntry>
+    <RangeEntry minFrequency="134000000000" maxFrequency="142000000000" mode="USB" step="10" color="99E9EB7C">Radionavigation Satellite</RangeEntry>
+    <RangeEntry minFrequency="134000000000" maxFrequency="142000000000" mode="USB" step="10" color="99AABD26">Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="190000000000" maxFrequency="200000000000" mode="USB" step="10" color="99E9EB7C">Radionavigation Satellite</RangeEntry>
+    <RangeEntry minFrequency="190000000000" maxFrequency="200000000000" mode="USB" step="10" color="99AABD26">Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="252000000000" maxFrequency="265000000000" mode="USB" step="10" color="99E9EB7C">Radionavigation Satellite</RangeEntry>
+    <RangeEntry minFrequency="252000000000" maxFrequency="265000000000" mode="USB" step="10" color="99AABD26">Radionavigation</RangeEntry>
+
 
 </ArrayOfRangeEntry>

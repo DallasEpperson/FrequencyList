@@ -1,42 +1,78 @@
 <?xml version="1.0"?>
+<!-- This file is brought to you courtesy of Henry Forte atouk@atouk.com                        -->
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+<!--                                                                                            -->
+<!--  Each RangeEntry for a band must be the first line of a group, and may be the only one.    -->
+<!--                                                                                            -->
+<!--  If desired, each band can be broken down into individual areas with distinct coloring     -->
+<!--  or operating modes.  The mode entry used in the RangeEntry section will be the default    -->
+<!--  mode unless a subrange overrides it.  This rule applies to band color, also.              -->
+<!--                                                                                            -->
+<!--  Color can be defined as YRGB, where Y=transparency, R=Red, G=Green, B=Blue in 2 digit     -->
+<!--  hexadecimal values, or as a colorname http://www.w3schools.com/colors/colors_names.asp    -->
+<!--  Using a colorname forces Y to be FF.  Colornames are not case sensitive.                  -->
+<!--                                                                                            -->
+<!--  Step will set the Step Size in the Radio section to the desired value for each band       -->     
+<!--  so that Snap to Grid works properly.  This is an optional value.                          -->
+<!--                                                                                            -->
+<!--  Mode can be preset to WFM, NFM, AM, USB, LSB, CW or AM.                                   -->
+<!--  The Mode in the Radio section of SDR# will automatically change to the selected one in    -->
+<!--  either the RangeEntry, or subrange entry.    This allows dividing allocation bands into   -->
+<!--  designated modes of operation.  Some bands with multiple allocations of operating modes   -->
+<!--  make preselecting the proper mode impractical. (http://www.arrl.org/band-plan e.g. 6m).   -->
+<!--                                                                                            -->
+<!--       NOTE: Operating mode may not change to the one preselected in Free Tuning, until an  -->
+<!--       operation that causes the Frequency Display to change readout.  To override the      -->
+<!--       default operating mode, uncheck "Auto update radio settings" in the Band Plan panel. -->
+<!--                                                                                            -->
+<!--  Band Range labels are optional.  Comments must be single line only.                       -->
+<!--  Some special characters will break XML parsing, so only alphanumeric are recommended.     -->
+<!--  RangeEntry definitions do not have to be in order of frequency (see Air Band below).      -->
+<!--  Any formatting or character errors will simply stop the Band Plan plugin from loading     -->
+<!--  and are non fatal to SDR#.                                                                -->
+<!--  The order of variables in each RangeEntry is optional.                                    -->
+<!--                                                                                            -->
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 <ArrayOfRangeEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <!-- US Amateur - Source: http://www.arrl.org/frequency-allocations -->
-    <RangeEntry minFrequency="000001800000" maxFrequency="000002000000" mode="CW"  step="10" color="red">160m Ham Band</RangeEntry>
-    <RangeEntry minFrequency="000003500000" maxFrequency="000003600000" mode="CW"  step="10" color="red">80m CW/Data Ham Band</RangeEntry>
-    <RangeEntry minFrequency="000003600000" maxFrequency="000004000000" mode="LSB" step="10" color="red">80m Ham Band</RangeEntry>
-    <RangeEntry minFrequency="000005332000" maxFrequency="000005405000" mode="USB" step="10" color="red">60m Ham Band</RangeEntry>
-    <RangeEntry minFrequency="000007000000" maxFrequency="000007125000" mode="CW"  step="10" color="red">40m CW/Data Ham Band</RangeEntry>
-    <RangeEntry minFrequency="000007125000" maxFrequency="000007300000" mode="LSB" step="10" color="red">40m Ham Band</RangeEntry>
-    <RangeEntry minFrequency="000010100000" maxFrequency="000010150000" mode="CW"  step="10" color="red">30m CW/Data Ham Band</RangeEntry>
-    <RangeEntry minFrequency="000014000000" maxFrequency="000014150000" mode="CW"  step="10" color="red">20m CW/Data Ham Band</RangeEntry>
-    <RangeEntry minFrequency="000014150000" maxFrequency="000014350000" mode="USB" step="10" color="red">20m Ham Band</RangeEntry>
-    <RangeEntry minFrequency="000018068000" maxFrequency="000018110000" mode="CW"  step="10" color="red">17m CW/Data Ham Band</RangeEntry>
-    <RangeEntry minFrequency="000018110000" maxFrequency="000018168000" mode="USB" step="10" color="red">17m Ham Band</RangeEntry>
-    <RangeEntry minFrequency="000021000000" maxFrequency="000021200000" mode="CW"  step="10" color="red">15m CW/Data Ham Band</RangeEntry>
-    <RangeEntry minFrequency="000021200000" maxFrequency="000021450000" mode="USB" step="10" color="red">15m Ham Band</RangeEntry>
-    <RangeEntry minFrequency="000024890000" maxFrequency="000024930000" mode="CW"  step="10" color="red">12m CW/Data Ham Band</RangeEntry>
-    <RangeEntry minFrequency="000024930000" maxFrequency="000024990000" mode="USB" step="10" color="red">12m Ham Band</RangeEntry>
-    <RangeEntry minFrequency="000028000000" maxFrequency="000028300000" mode="CW"  step="10" color="red">10m CW/Data Ham Band</RangeEntry>
-    <RangeEntry minFrequency="000028300000" maxFrequency="000029700000" mode="USB" step="10" color="red">10m Ham Band</RangeEntry>
-    <RangeEntry minFrequency="000050000000" maxFrequency="000050100000" mode="CW"  step="10" color="red">6m CW Ham Band</RangeEntry>
-    <RangeEntry minFrequency="000050100000" maxFrequency="000054000000" mode="USB" step="10" color="red">6m Ham Band</RangeEntry>
-    <RangeEntry minFrequency="000144000000" maxFrequency="000144100000" mode="CW"  step="10" color="red">2m CW Ham Band</RangeEntry>
-    <RangeEntry minFrequency="000144100000" maxFrequency="000148000000" mode="NFM" step="10" color="red">2m Ham Band</RangeEntry>
-    <RangeEntry minFrequency="000222000000" maxFrequency="000225000000" mode="NFM" step="10" color="red">1.25m Ham Band</RangeEntry>
-    <RangeEntry minFrequency="000420000000" maxFrequency="000450000000" mode="NFM" step="10" color="red">70cm Ham Band</RangeEntry>
-    <RangeEntry minFrequency="000902000000" maxFrequency="000928000000" mode="NFM" step="10" color="red">33cm Ham Band</RangeEntry>
-    <RangeEntry minFrequency="001240000000" maxFrequency="001300000000" mode="NFM" step="10" color="red">22cm Ham Band</RangeEntry>
-    <RangeEntry minFrequency="002300000000" maxFrequency="002310000000" mode="NFM" step="10" color="red">GHz Ham Band</RangeEntry>
-    <RangeEntry minFrequency="002390000000" maxFrequency="002450000000" mode="NFM" step="10" color="red">GHz Ham Band</RangeEntry>
-    <RangeEntry minFrequency="003300000000" maxFrequency="003500000000" mode="NFM" step="10" color="red">GHz Ham Band</RangeEntry>
-    <RangeEntry minFrequency="005650000000" maxFrequency="005925000000" mode="NFM" step="10" color="red">GHz Ham Band</RangeEntry>
-    <RangeEntry minFrequency="010000000000" maxFrequency="010500000000" mode="NFM" step="10" color="red">GHz Ham Band</RangeEntry>
-    <RangeEntry minFrequency="024000000000" maxFrequency="024250000000" mode="NFM" step="10" color="red">GHz Ham Band</RangeEntry>
-    <RangeEntry minFrequency="047000000000" maxFrequency="047200000000" mode="NFM" step="10" color="red">GHz Ham Band</RangeEntry>
-    <RangeEntry minFrequency="077000000000" maxFrequency="081000000000" mode="NFM" step="10" color="red">GHz Ham Band</RangeEntry>
-    <RangeEntry minFrequency="122250000000" maxFrequency="123000000000" mode="NFM" step="10" color="red">GHz Ham Band</RangeEntry>
-    <RangeEntry minFrequency="134000000000" maxFrequency="141000000000" mode="NFM" step="10" color="red">GHz Ham Band</RangeEntry>
-    <RangeEntry minFrequency="241000000000" maxFrequency="250000000000" mode="NFM" step="10" color="red">GHz Ham Band</RangeEntry>
+    <RangeEntry minFrequency="000000135700" maxFrequency="000000137800" mode="CW"  step="10" color="90009470">2200m Ham Band</RangeEntry>
+    <RangeEntry minFrequency="000000472000" maxFrequency="000000479000" mode="CW"  step="10" color="90009470">630m Ham Band</RangeEntry>
+    <RangeEntry minFrequency="000001800000" maxFrequency="000002000000" mode="CW"  step="10" color="90009470">160m Ham Band</RangeEntry>
+    <RangeEntry minFrequency="000003500000" maxFrequency="000003600000" mode="CW"  step="10" color="90009470">80m CW/Data Ham Band</RangeEntry>
+    <RangeEntry minFrequency="000003600000" maxFrequency="000004000000" mode="LSB" step="10" color="90009470">80m Ham Band</RangeEntry>
+    <RangeEntry minFrequency="000005332000" maxFrequency="000005405000" mode="USB" step="10" color="90009470">60m Ham Band</RangeEntry>
+    <RangeEntry minFrequency="000007000000" maxFrequency="000007125000" mode="CW"  step="10" color="90009470">40m CW/Data Ham Band</RangeEntry>
+    <RangeEntry minFrequency="000007125000" maxFrequency="000007300000" mode="LSB" step="10" color="90009470">40m Ham Band</RangeEntry>
+    <RangeEntry minFrequency="000010100000" maxFrequency="000010150000" mode="CW"  step="10" color="90009470">30m CW/Data Ham Band</RangeEntry>
+    <RangeEntry minFrequency="000014000000" maxFrequency="000014150000" mode="CW"  step="10" color="90009470">20m CW/Data Ham Band</RangeEntry>
+    <RangeEntry minFrequency="000014150000" maxFrequency="000014350000" mode="USB" step="10" color="90009470">20m Ham Band</RangeEntry>
+    <RangeEntry minFrequency="000018068000" maxFrequency="000018110000" mode="CW"  step="10" color="90009470">17m CW/Data Ham Band</RangeEntry>
+    <RangeEntry minFrequency="000018110000" maxFrequency="000018168000" mode="USB" step="10" color="90009470">17m Ham Band</RangeEntry>
+    <RangeEntry minFrequency="000021000000" maxFrequency="000021200000" mode="CW"  step="10" color="90009470">15m CW/Data Ham Band</RangeEntry>
+    <RangeEntry minFrequency="000021200000" maxFrequency="000021450000" mode="USB" step="10" color="90009470">15m Ham Band</RangeEntry>
+    <RangeEntry minFrequency="000024890000" maxFrequency="000024930000" mode="CW"  step="10" color="90009470">12m CW/Data Ham Band</RangeEntry>
+    <RangeEntry minFrequency="000024930000" maxFrequency="000024990000" mode="USB" step="10" color="90009470">12m Ham Band</RangeEntry>
+    <RangeEntry minFrequency="000028000000" maxFrequency="000028300000" mode="CW"  step="10" color="90009470">10m CW/Data Ham Band</RangeEntry>
+    <RangeEntry minFrequency="000028300000" maxFrequency="000029700000" mode="USB" step="10" color="90009470">10m Ham Band</RangeEntry>
+    <RangeEntry minFrequency="000050000000" maxFrequency="000050100000" mode="CW"  step="10" color="90009470">6m CW Ham Band</RangeEntry>
+    <RangeEntry minFrequency="000050100000" maxFrequency="000054000000" mode="USB" step="10" color="90009470">6m Ham Band</RangeEntry>
+    <RangeEntry minFrequency="000144000000" maxFrequency="000144100000" mode="CW"  step="10" color="90009470">2m CW Ham Band</RangeEntry>
+    <RangeEntry minFrequency="000144100000" maxFrequency="000148000000" mode="NFM" step="10" color="90009470">2m Ham Band</RangeEntry>
+    <RangeEntry minFrequency="000222000000" maxFrequency="000225000000" mode="NFM" step="10" color="90009470">1.25m Ham Band</RangeEntry>
+    <RangeEntry minFrequency="000420000000" maxFrequency="000450000000" mode="NFM" step="10" color="90009470">70cm Ham Band</RangeEntry>
+    <RangeEntry minFrequency="000902000000" maxFrequency="000928000000" mode="NFM" step="10" color="90009470">33cm Ham Band</RangeEntry>
+    <RangeEntry minFrequency="001240000000" maxFrequency="001300000000" mode="NFM" step="10" color="90009470">22cm Ham Band</RangeEntry>
+    <RangeEntry minFrequency="002300000000" maxFrequency="002310000000" mode="NFM" step="10" color="90009470">GHz Ham Band</RangeEntry>
+    <RangeEntry minFrequency="002390000000" maxFrequency="002450000000" mode="NFM" step="10" color="90009470">GHz Ham Band</RangeEntry>
+    <RangeEntry minFrequency="003300000000" maxFrequency="003500000000" mode="NFM" step="10" color="90009470">GHz Ham Band</RangeEntry>
+    <RangeEntry minFrequency="005650000000" maxFrequency="005925000000" mode="NFM" step="10" color="90009470">GHz Ham Band</RangeEntry>
+    <RangeEntry minFrequency="010000000000" maxFrequency="010500000000" mode="NFM" step="10" color="90009470">GHz Ham Band</RangeEntry>
+    <RangeEntry minFrequency="024000000000" maxFrequency="024250000000" mode="NFM" step="10" color="90009470">GHz Ham Band</RangeEntry>
+    <RangeEntry minFrequency="047000000000" maxFrequency="047200000000" mode="NFM" step="10" color="90009470">GHz Ham Band</RangeEntry>
+    <RangeEntry minFrequency="077000000000" maxFrequency="081000000000" mode="NFM" step="10" color="90009470">GHz Ham Band</RangeEntry>
+    <RangeEntry minFrequency="122250000000" maxFrequency="123000000000" mode="NFM" step="10" color="90009470">GHz Ham Band</RangeEntry>
+    <RangeEntry minFrequency="134000000000" maxFrequency="141000000000" mode="NFM" step="10" color="90009470">GHz Ham Band</RangeEntry>
+    <RangeEntry minFrequency="241000000000" maxFrequency="250000000000" mode="NFM" step="10" color="90009470">GHz Ham Band</RangeEntry>
 
     <!-- Radionavigation - Source: https://www.ntia.doc.gov/files/ntia/publications/2003-allochrt.pdf -->
     <RangeEntry minFrequency="000000009000" maxFrequency="000000014000" mode="USB" step="10" color="99AABD26">Radionavigation</RangeEntry>
@@ -56,7 +92,7 @@
     <RangeEntry minFrequency="000000415000" maxFrequency="000000495000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation</RangeEntry>
     <RangeEntry minFrequency="000000510000" maxFrequency="000000535000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation (Radio Beacons)</RangeEntry>
     <RangeEntry minFrequency="000074800000" maxFrequency="000075200000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation</RangeEntry>
-    <RangeEntry minFrequency="000108000000" maxFrequency="000117975000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation</RangeEntry>
+    <RangeEntry minFrequency="000108000000" maxFrequency="000117975000" mode="AM"  step="10" color="99C05017">Aeronautical Radionavigation</RangeEntry>
     <RangeEntry minFrequency="000328600000" maxFrequency="000335400000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation</RangeEntry>
     <RangeEntry minFrequency="000399900000" maxFrequency="000400050000" mode="USB" step="10" color="99E9EB7C">Radionavigation Satellite</RangeEntry>
     <RangeEntry minFrequency="000960000000" maxFrequency="001215000000" mode="USB" step="10" color="99C05017">Aeronautical Radionavigation</RangeEntry>
@@ -93,5 +129,14 @@
     <RangeEntry minFrequency="252000000000" maxFrequency="265000000000" mode="USB" step="10" color="99E9EB7C">Radionavigation Satellite</RangeEntry>
     <RangeEntry minFrequency="252000000000" maxFrequency="265000000000" mode="USB" step="10" color="99AABD26">Radionavigation</RangeEntry>
 
+    <!-- Broadcast -->
+    <RangeEntry minFrequency="000054000000" maxFrequency="000072000000" mode="AM"  step="10" color="902E98BB">Broadcast Television</RangeEntry>
+    <RangeEntry minFrequency="000076000000" maxFrequency="000088000000" mode="AM"  step="10" color="902E98BB">Broadcast Television</RangeEntry>
+    <RangeEntry minFrequency="000088000000" maxFrequency="000108000000" mode="WFM" step="10" color="902E98BB">Broadcast Radio</RangeEntry>
+    <RangeEntry minFrequency="000174000000" maxFrequency="000216000000" mode="AM"  step="10" color="902E98BB">Broadcast Television</RangeEntry>
+    <RangeEntry minFrequency="000470000000" maxFrequency="000512000000" mode="AM"  step="10" color="902E98BB">Broadcast Television</RangeEntry>
+    <RangeEntry minFrequency="000512000000" maxFrequency="000608000000" mode="AM"  step="10" color="902E98BB">Broadcast Television</RangeEntry>
+    <RangeEntry minFrequency="000614000000" maxFrequency="000698000000" mode="AM"  step="10" color="902E98BB">Broadcast Television</RangeEntry>
+    <RangeEntry minFrequency="000698000000" maxFrequency="000763000000" mode="AM"  step="10" color="902E98BB">Broadcast Television</RangeEntry>
 
 </ArrayOfRangeEntry>
